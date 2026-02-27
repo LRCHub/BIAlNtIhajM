@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Backburner",
+  "base_artist": "NIKI",
+  "createdAt": "2026-02-27T14:39:24.088758Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Backburner",
+      "artist": "NIKI",
+      "has_synced": true,
+      "path": "select/01_Backburner_NIKI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Backburner (Live at The Wiltern)",
+      "artist": "NIKI",
+      "has_synced": true,
+      "path": "select/02_Backburner_(Live_at_The_Wiltern)_NIKI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Backburner",
+      "artist": "August Burns Red",
+      "has_synced": true,
+      "path": "select/03_Backburner_August_Burns_Red.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Backburner",
+      "artist": "Twelve Tribes",
+      "has_synced": false,
+      "path": "select/04_Backburner_Twelve_Tribes.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Backburner",
+      "artist": "Jamila Woods",
+      "has_synced": true,
+      "path": "select/05_Backburner_Jamila_Woods.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "backburner",
+      "artist": "Richy Mitch & The Coal Miners",
+      "has_synced": true,
+      "path": "select/06_backburner_Richy_Mitch_&_The_Coal_Miners.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Backburner",
+      "artist": "NIKI",
+      "has_synced": true,
+      "path": "select/07_Backburner_NIKI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Backburner (Live at The Wiltern) (Live at The Wiltern)",
+      "artist": "Niki",
+      "has_synced": true,
+      "path": "select/08_Backburner_(Live_at_The_Wiltern)_(Live_at_The_Wiltern)_Niki.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "NIKI -  Backburner (Official Lyric Video)",
+      "artist": "NIKI",
+      "has_synced": true,
+      "path": "select/09_NIKI_-_Backburner_(Official_Lyric_Video)_NIKI.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Backburner at The Wiltern",
+      "artist": "NIKI",
+      "has_synced": true,
+      "path": "select/10_Backburner_at_The_Wiltern_NIKI.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Backburner",
+      "artist": "NIKI",
+      "has_synced": true,
+      "path": "select/11_Backburner_NIKI.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Backburner (Remixed)",
+      "artist": "August Burns Red",
+      "has_synced": false,
+      "path": "select/12_Backburner_(Remixed)_August_Burns_Red.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Backburner",
+      "artist": "Mike Pinto",
+      "has_synced": false,
+      "path": "select/13_Backburner_Mike_Pinto.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Backburner",
+      "artist": "All The Rest",
+      "has_synced": true,
+      "path": "select/14_Backburner_All_The_Rest.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Backburner",
+      "artist": "NIKI",
+      "has_synced": false,
+      "path": "select/pl_01_Backburner_NIKI.txt"
+    }
+  ]
+}
